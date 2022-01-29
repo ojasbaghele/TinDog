@@ -1,2 +1,1 @@
-# TinDog
-Design and Media Query 
+TinDog Starting Files
